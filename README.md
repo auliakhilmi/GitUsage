@@ -1,5 +1,5 @@
 # GIT Usage
-**Tutorial for myself and other if you want**
+**Tutorial for myself and others if you want**
 
 For **linux** user with terminal
 
