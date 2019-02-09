@@ -1,5 +1,6 @@
 # GIT Usage
 **Tutorial for myself and other if you want**
+
 For **linux** user with terminal
 
 ## Initialization
@@ -31,4 +32,8 @@ $ git push origin master
 # Pushes the changes in your local repository up to the remote repository you specified as the origin
 ```
 
-Created by **@auliakhilmi**
+**Source:**
+
+[![GitHub Help](https://help.github.com/assets/images/site/logo.png)](https://help.github.com)   [![StackOverflow](<img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg?v=a010291124bf" width="100"/>)](https://stackoverflow.com)
+
+Rewrite by **@auliakhilmi**
