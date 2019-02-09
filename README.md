@@ -34,6 +34,6 @@ $ git push origin master
 
 **Source:**
 
-[![GitHub Help](https://help.github.com/assets/images/site/logo.png)](https://help.github.com)   [![StackOverflow](<img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg?v=a010291124bf" width="100"/>)](https://stackoverflow.com)
+[![GitHub Help](https://help.github.com/assets/images/site/logo.png)](https://help.github.com)
 
 Rewrite by **@auliakhilmi**
