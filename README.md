@@ -35,5 +35,3 @@ $ git push origin master
 **Source:**
 
 [![GitHub Help](https://help.github.com/assets/images/site/logo.png)](https://help.github.com)
-
-Rewrite by **@auliakhilmi**
